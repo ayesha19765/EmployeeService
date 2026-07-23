@@ -13,15 +13,16 @@ A RESTful Employee Management API built with Spring Boot and PostgreSQL that dem
 - Spring Data JPA Integration
 
 ## Screenshots
-<!-- <p align="center"> -->
-  <img src="/assets/get.png" width="300"/>
 
-  <img src="/assets/put.png" width="300"/>
+- Get Employee Details
+  <img src="/assets/get.png">
+- Update Employee
+  <img src="/assets/put.png">
+- Create Employee
+  <img src="/assets/post.png">
+- Delete Employee  
+  <img src="/assets/delete.png">
 
-  <img src="/assets/post.png" width="300"/>
-  
-  <img src="/assets/delete.png" width="300"/>
-<!-- </p> -->
 
 ## Tech Stack
 
